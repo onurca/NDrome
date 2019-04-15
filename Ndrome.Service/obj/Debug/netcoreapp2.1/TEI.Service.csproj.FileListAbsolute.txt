@@ -1,0 +1,16 @@
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Service.deps.json
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Service.dll
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Service.pdb
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Common.dll
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Data.dll
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Model.dll
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Common.pdb
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Data.pdb
+C:\TEI\server\TEI.Service\bin\Debug\netcoreapp2.1\TEI.Model.pdb
+C:\TEI\server\TEI.Service\obj\Debug\netcoreapp2.1\TEI.Service.csprojAssemblyReference.cache
+C:\TEI\server\TEI.Service\obj\Debug\netcoreapp2.1\TEI.Service.csproj.CoreCompileInputs.cache
+C:\TEI\server\TEI.Service\obj\Debug\netcoreapp2.1\TEI.Service.AssemblyInfoInputs.cache
+C:\TEI\server\TEI.Service\obj\Debug\netcoreapp2.1\TEI.Service.AssemblyInfo.cs
+C:\TEI\server\TEI.Service\obj\Debug\netcoreapp2.1\TEI.Service.csproj.CopyComplete
+C:\TEI\server\TEI.Service\obj\Debug\netcoreapp2.1\TEI.Service.dll
+C:\TEI\server\TEI.Service\obj\Debug\netcoreapp2.1\TEI.Service.pdb

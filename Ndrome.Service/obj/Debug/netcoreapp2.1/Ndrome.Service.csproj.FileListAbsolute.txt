@@ -1,0 +1,16 @@
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Service.deps.json
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Service.dll
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Service.pdb
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Common.dll
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Data.dll
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Model.dll
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Common.pdb
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Data.pdb
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\bin\Debug\netcoreapp2.1\Ndrome.Model.pdb
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\obj\Debug\netcoreapp2.1\Ndrome.Service.csprojAssemblyReference.cache
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\obj\Debug\netcoreapp2.1\Ndrome.Service.csproj.CoreCompileInputs.cache
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\obj\Debug\netcoreapp2.1\Ndrome.Service.AssemblyInfoInputs.cache
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\obj\Debug\netcoreapp2.1\Ndrome.Service.AssemblyInfo.cs
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\obj\Debug\netcoreapp2.1\Ndrome.Service.csproj.CopyComplete
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\obj\Debug\netcoreapp2.1\Ndrome.Service.dll
+D:\Repositories\TEI-master\TEI-master\server\Palindrome.Service\obj\Debug\netcoreapp2.1\Ndrome.Service.pdb

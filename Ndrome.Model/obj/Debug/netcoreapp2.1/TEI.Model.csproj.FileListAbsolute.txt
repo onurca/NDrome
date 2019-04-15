@@ -1,0 +1,9 @@
+C:\TEI\server\TEI.Model\bin\Debug\netcoreapp2.1\TEI.Model.deps.json
+C:\TEI\server\TEI.Model\bin\Debug\netcoreapp2.1\TEI.Model.dll
+C:\TEI\server\TEI.Model\bin\Debug\netcoreapp2.1\TEI.Model.pdb
+C:\TEI\server\TEI.Model\obj\Debug\netcoreapp2.1\TEI.Model.csprojAssemblyReference.cache
+C:\TEI\server\TEI.Model\obj\Debug\netcoreapp2.1\TEI.Model.csproj.CoreCompileInputs.cache
+C:\TEI\server\TEI.Model\obj\Debug\netcoreapp2.1\TEI.Model.AssemblyInfoInputs.cache
+C:\TEI\server\TEI.Model\obj\Debug\netcoreapp2.1\TEI.Model.AssemblyInfo.cs
+C:\TEI\server\TEI.Model\obj\Debug\netcoreapp2.1\TEI.Model.dll
+C:\TEI\server\TEI.Model\obj\Debug\netcoreapp2.1\TEI.Model.pdb

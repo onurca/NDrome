@@ -1,0 +1,14 @@
+C:\TEI\server\TEI.Common\bin\Debug\netcoreapp2.1\TEI.Common.deps.json
+C:\TEI\server\TEI.Common\bin\Debug\netcoreapp2.1\TEI.Common.dll
+C:\TEI\server\TEI.Common\bin\Debug\netcoreapp2.1\TEI.Common.pdb
+C:\TEI\server\TEI.Common\bin\Debug\netcoreapp2.1\TEI.Data.dll
+C:\TEI\server\TEI.Common\bin\Debug\netcoreapp2.1\TEI.Model.dll
+C:\TEI\server\TEI.Common\bin\Debug\netcoreapp2.1\TEI.Data.pdb
+C:\TEI\server\TEI.Common\bin\Debug\netcoreapp2.1\TEI.Model.pdb
+C:\TEI\server\TEI.Common\obj\Debug\netcoreapp2.1\TEI.Common.csprojAssemblyReference.cache
+C:\TEI\server\TEI.Common\obj\Debug\netcoreapp2.1\TEI.Common.csproj.CoreCompileInputs.cache
+C:\TEI\server\TEI.Common\obj\Debug\netcoreapp2.1\TEI.Common.AssemblyInfoInputs.cache
+C:\TEI\server\TEI.Common\obj\Debug\netcoreapp2.1\TEI.Common.AssemblyInfo.cs
+C:\TEI\server\TEI.Common\obj\Debug\netcoreapp2.1\TEI.Common.csproj.CopyComplete
+C:\TEI\server\TEI.Common\obj\Debug\netcoreapp2.1\TEI.Common.dll
+C:\TEI\server\TEI.Common\obj\Debug\netcoreapp2.1\TEI.Common.pdb
