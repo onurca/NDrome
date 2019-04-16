@@ -10,8 +10,9 @@ namespace Ndrome.Service.Services
     {
         readonly IRepository<Content> _contentRepository;
 
-        public ContentService()
+        public ContentService(IUnitOfWork unitOfWork)
         {
+            UnitOfWork = unitOfWork;
             _contentRepository = UnitOfWork.GetRepository<Content>();
         }
 

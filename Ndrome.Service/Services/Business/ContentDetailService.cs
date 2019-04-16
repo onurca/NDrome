@@ -11,8 +11,9 @@ namespace Ndrome.Service.Services
         readonly IRepository<Content> _contentRepository;
         readonly IRepository<ContentDetail> _contentDetailRepository;
 
-        public ContentDetailService()
+        public ContentDetailService(IUnitOfWork unitOfWork)
         {
+            UnitOfWork = unitOfWork;
             _contentRepository = UnitOfWork.GetRepository<Content>();
             _contentDetailRepository = UnitOfWork.GetRepository<ContentDetail>();
         }

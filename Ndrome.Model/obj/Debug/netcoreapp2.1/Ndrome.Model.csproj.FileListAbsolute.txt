@@ -10,7 +10,6 @@ D:\Repositories\TEI-master\TEI-master\server\Palindrome.Model\obj\Debug\netcorea
 D:\Repositories\TEI-master\TEI-master\server\Ndrome.Model\bin\Debug\netcoreapp2.1\Ndrome.Model.deps.json
 D:\Repositories\TEI-master\TEI-master\server\Ndrome.Model\bin\Debug\netcoreapp2.1\Ndrome.Model.dll
 D:\Repositories\TEI-master\TEI-master\server\Ndrome.Model\bin\Debug\netcoreapp2.1\Ndrome.Model.pdb
-D:\Repositories\TEI-master\TEI-master\server\Ndrome.Model\obj\Debug\netcoreapp2.1\Ndrome.Model.csprojAssemblyReference.cache
 D:\Repositories\TEI-master\TEI-master\server\Ndrome.Model\obj\Debug\netcoreapp2.1\Ndrome.Model.csproj.CoreCompileInputs.cache
 D:\Repositories\TEI-master\TEI-master\server\Ndrome.Model\obj\Debug\netcoreapp2.1\Ndrome.Model.AssemblyInfoInputs.cache
 D:\Repositories\TEI-master\TEI-master\server\Ndrome.Model\obj\Debug\netcoreapp2.1\Ndrome.Model.AssemblyInfo.cs

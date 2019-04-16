@@ -4,7 +4,7 @@ using Ndrome.Model.Business;
 
 namespace Ndrome.Service.Interfaces
 {
-    public interface IContentDetailService
+    public interface IContentDetailService 
     {
         ContentDetail Get(Guid id);
         IEnumerable<ContentDetail> GetAll(Guid contentId);

@@ -1,9 +1,8 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Ndrome.Common;
+﻿using Ndrome.Common;
 using Ndrome.Model.Authentication;
 using Ndrome.Service.Interfaces;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Ndrome.Service.Services
 {
@@ -11,8 +10,9 @@ namespace Ndrome.Service.Services
     {
         readonly IRepository<User> _userRepository;
 
-        public UserService()
+        public UserService(IUnitOfWork unitOfWork)
         {
+            UnitOfWork = unitOfWork;
             _userRepository = UnitOfWork.GetRepository<User>();
         }
 
@@ -32,7 +32,8 @@ namespace Ndrome.Service.Services
 
         public IEnumerable<User> GetAll()
         {
-            return _userRepository.GetAll().AsEnumerable().Select(x => {
+            return _userRepository.GetAll().AsEnumerable().Select(x =>
+            {
                 x.Password = null;
                 return x;
             });

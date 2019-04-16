@@ -1,14 +1,16 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
-using System.Text;
 using Ndrome.Common;
 using Ndrome.Data;
+using Ndrome.Service.Interfaces;
+using Ndrome.Service.Services;
+using System;
+using System.Text;
 
 namespace Ndrome
 {
@@ -43,9 +45,17 @@ namespace Ndrome
                  };
              });
 
+            services.AddDbContext<NdromeDbContext>(option => option.UseSqlServer(connectionString: CS.Default));
+
+            services.AddScoped<DbContext, NdromeDbContext>(provider => provider.GetService<NdromeDbContext>());
+            services.AddScoped(typeof(IContentService), typeof(ContentService));
+            services.AddScoped(typeof(IContentDetailService), typeof(ContentDetailService));
+            services.AddScoped(typeof(IUserService), typeof(UserService));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
+
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

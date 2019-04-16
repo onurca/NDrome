@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using Ndrome.Model.Business;
 using Ndrome.Service.Interfaces;
+using System;
 
 namespace Ndrome.Controllers
 {
